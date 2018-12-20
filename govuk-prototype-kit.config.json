@@ -1,0 +1,18 @@
+{
+  "nunjucksPaths": [
+    "/",
+    "/components"
+  ],
+  "scripts": [
+    "/all.js"
+  ],
+  "assets": [
+    {
+      "global": true,
+      "src": "/assets"
+    }
+  ],
+  "sass": [
+    "/all.scss"
+  ]
+}
